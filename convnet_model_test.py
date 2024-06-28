@@ -1,6 +1,6 @@
 import numpy as np
 import torch 
-from convnet import ConvNet
+from models.convnet import ConvNet
 from PIL import Image
 import skimage
 from skimage.filters import gaussian
